@@ -1,3 +1,5 @@
+To explore a symmetric angular search procedure, this was forked from:
+
 RELION 3.0
 ==========
 

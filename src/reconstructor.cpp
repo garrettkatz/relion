@@ -23,7 +23,7 @@ void Reconstructor::read(int argc, char **argv)
 {
 	parser.setCommandLine(argc, argv);
 
-	int general_section = parser.addSection("General options (**GK**)");
+	int general_section = parser.addSection("General options");
 	fn_sel = parser.getOption("--i", "Input STAR file with the projection images and their orientations", "");
 	fn_out = parser.getOption("--o", "Name for output reconstruction","relion.mrc");
 	fn_sym = parser.getOption("--sym", "Symmetry group", "c1");

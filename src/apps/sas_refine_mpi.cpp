@@ -18,11 +18,11 @@
  * author citations must be preserved.
  ***************************************************************************/
 
-#include <src/ml_optimiser_mpi.h>
+#include <src/sas_ml_optimiser_mpi.h>
 
 int main(int argc, char **argv)
 {
-	MlOptimiserMpi optimiser;
+	SasMlOptimiserMpi optimiser;
 	try
 	{
 

@@ -4,3 +4,7 @@ external
 .cproject
 .project
 Debug
+
+# Emacs files
+*~
+

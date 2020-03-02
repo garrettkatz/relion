@@ -1,5 +1,7 @@
 /***************************************************************************
  *
+ * Modified by Garrett E. Katz
+ *
  * Author: "Sjors H.W. Scheres"
  * MRC Laboratory of Molecular Biology
  *

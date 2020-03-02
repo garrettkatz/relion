@@ -1,5 +1,7 @@
 /***************************************************************************
  *
+ * Modified by Garrett E. Katz
+ *
  * Author: "Sjors H.W. Scheres"
  * MRC Laboratory of Molecular Biology
  *
@@ -18,7 +20,7 @@
  * author citations must be preserved.
  ***************************************************************************/
 #include "src/sas_ml_optimiser_mpi.h"
-#include "src/ml_optimiser.h"
+#include "src/sas_ml_optimiser.h"
 #ifdef CUDA
 #include "src/acc/cuda/cuda_ml_optimiser.h"
 #endif
